@@ -1,4 +1,6 @@
 :root{
-    /* FONT */
+    /* FONT(é como criar uma variável que tem a fonte) */
     --font-dm-sans: "DM Sans", sans-serif;
+    /* COLORS */
+    --bg-icon: #131313;
 }
